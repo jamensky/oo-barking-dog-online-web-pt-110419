@@ -14,4 +14,3 @@ end
 
 dog_1 = Dog.new
 dog_1.name = "Fido"
- 
